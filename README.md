@@ -33,3 +33,10 @@ Hasilnya akan seperti ini,
 Untuk mengatur ukuran gambar menggunakan CSS sehingga hasilnya akan seperti berikut.
 ![img](img/img9.png)
 ![img](img/img10.png)
+
+## list Group
+Selanjutnya menambahkan list group widget disamping kanan kolom card yang sudah dipersiapkan sebelumnya.
+![img](img/img11.png)
+Sehingga hasilnya akan jadi seperti berikut.
+![img](img/img12.png)
+
