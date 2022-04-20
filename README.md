@@ -40,3 +40,8 @@ Selanjutnya menambahkan list group widget disamping kanan kolom card yang sudah 
 Sehingga hasilnya akan jadi seperti berikut.
 ![img](img/img12.png)
 
+## Body Konten
+Pada bagian body konten ini masih menggunakan card seperti sebelumnya.
+![img](img/img13.png)
+Hasilnya akan seperti ini.
+![img](img/img14.png)
