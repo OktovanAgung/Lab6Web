@@ -25,3 +25,11 @@ Jumbotron atau area besar pada Bootstrap yang umumnya digunakan untuk menampilka
 ![img](img/img5.png)
 ![img](img/img6.png)
 
+## Membuat Cards
+Cards disini digunakan untuk membuat body content. Sebelum itu kolom akan dibagi dua untuk bagian selanjutnya. Untuk membaginya menggunakan `display flex`.
+![img](img/img7.png)
+Hasilnya akan seperti ini,
+![img](img/img8.png)
+Untuk mengatur ukuran gambar menggunakan CSS sehingga hasilnya akan seperti berikut.
+![img](img/img9.png)
+![img](img/img10.png)
