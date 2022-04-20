@@ -45,3 +45,14 @@ Pada bagian body konten ini masih menggunakan card seperti sebelumnya.
 ![img](img/img13.png)
 Hasilnya akan seperti ini.
 ![img](img/img14.png)
+
+## Footer
+Selanjutnya menambahkan footer pada bagian akhir atau bagian paling bawah.
+![img](img/img15.png)
+CSS untuk merubah tampilan atau stylenya
+![img](img/img16.png)
+Dan hasilnya akan seperti berikut
+![img](img/img17.png)
+
+## Tampilan Akhirnya Secara Penuh
+![img](img/img18.png)
